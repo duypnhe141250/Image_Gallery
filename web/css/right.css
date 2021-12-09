@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 25, 2021, 11:00:15 PM
+    Author     : Dương Thanh Tùng
+*/
+body{
+    font-family: 'Open Sans',Helvetica,Arial,sans-serif;
+    font-size: 16px;
+}
+.header-right{
+    height: auto;
+    background-color: #303030;
+    margin: 0;
+    padding: 7px 15px;
+    /*width: 100%;*/
+}
+.header-right h4{
+    font-family: 'Times New Roman',Helvetica,Arial,sans-serif;
+    font-size: 22px;
+    line-height: 38px;
+    color: #ffffff;
+    margin: 0;
+}
+.social{   
+    width: 100%;
+    height: auto;
+    background-color: rgba(170, 64, 67, 0.4);
+}
+.social ul{
+    margin: 0;
+    list-style: none;
+    padding: 15px 15px;
+}
+.social ul li{
+    line-height: 22px;
+        display: flex;
+}
+img{
+    margin-top: 2px;
+    height: 16px;
+    width: 16px;
+
+}
+.social ul li a{
+    color: #ffffff;
+}
+
